@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949962788060",
+    "firebase_url": "https://shtefan-burger-project.firebaseio.com",
+    "project_id": "shtefan-burger-project",
+    "storage_bucket": "shtefan-burger-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949962788060:android:f916afe74fef8787977819",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949962788060-q5vq6tkqpkiier5fibh742rjtvvtcjco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxAQwGQ755jX_R_gmYrzQGi1yswSzxZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949962788060-q5vq6tkqpkiier5fibh742rjtvvtcjco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
